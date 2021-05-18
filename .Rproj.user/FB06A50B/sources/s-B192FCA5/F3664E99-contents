@@ -52,7 +52,6 @@ Hobbies
 - Reading science fiction, fantasy, and philosophy.
 
 Research interests:
-- Proteomics and metabolomics
 - Droplet microfluidics
 - Orthopedic surgery
 - Otolargyngology
