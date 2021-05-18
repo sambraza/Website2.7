@@ -2,7 +2,7 @@
 title: Vintage
 draft: false
 slogan: 
-imgLeft: images/lake.png
+imgLeft: images/FHOT.jpg
 imgRight: images/kelso.jpg
 
 weight: 4

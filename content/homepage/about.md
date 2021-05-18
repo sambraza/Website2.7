@@ -2,7 +2,7 @@
 title: Sam Braza
 draft: false
 avatar: images/pic2.png
-bio: Medical student with philosophical aspirations.
+bio: (Incoming) medical student with philosophical aspirations.
 social:
 - icon: envelope
   iconPack: fas
@@ -41,7 +41,7 @@ widget:
 
 ## Introduction
 
-Hi, I'm Sam, an incoming medical student. I created this site to post some of my philosophical thoughts, as well as show some of the things I'm currently working on. I graduated in 2020 from Santa Clara University with degrees in philosophy and biochemistry. I am actively pursuing biomedical research, but I still have interests in philosophy, especially in metaphysics, epistemology, and bioethics. 
+Hi, I'm Sam. I created this site to post some of my philosophical thoughts, as well as show some of the things I'm currently working on. I graduated in 2020 from Santa Clara University with degrees in philosophy and biochemistry. I am actively pursuing biomedical research, but I still have interests in philosophy, especially in metaphysics, epistemology, and bioethics. 
 
 
 ## More about me  
