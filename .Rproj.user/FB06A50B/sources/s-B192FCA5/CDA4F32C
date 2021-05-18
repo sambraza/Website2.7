@@ -3,7 +3,7 @@
     "path": "~/Documents/R/file/config/_default/menus.yaml",
     "project_path": "config/_default/menus.yaml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "1536494307",
     "contents": "",
     "dirty": false,
     "created": 1621294304412.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "8,36",
+        "cursorPosition": "0,5",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1621315276,
+    "lastKnownWriteTime": 1621362829,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1621315276766,
+    "last_content_update": 1621362829188,
     "read_only": false,
     "read_only_alternatives": []
 }
