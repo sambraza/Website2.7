@@ -3,7 +3,7 @@
     "path": "~/Documents/R/file/config.yaml",
     "project_path": "config.yaml",
     "type": "yaml",
-    "hash": "102262008",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1621297252403.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "19,3",
-        "scrollLine": "10"
+        "cursorPosition": "4,19",
+        "scrollLine": "0"
     },
     "folds": "",
     "lastKnownWriteTime": 1621363660,
