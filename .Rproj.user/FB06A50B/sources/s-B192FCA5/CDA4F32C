@@ -1,0 +1,26 @@
+{
+    "id": "CDA4F32C",
+    "path": "~/Documents/R/file/config/_default/tabs.yaml",
+    "project_path": "config/_default/tabs.yaml",
+    "type": "yaml",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1621294304412.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "9,13",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1621298106,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1621298106,
+    "read_only": false,
+    "read_only_alternatives": []
+}
