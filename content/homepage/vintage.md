@@ -2,8 +2,8 @@
 title: Vintage
 draft: false
 slogan: 
-imgLeft: images/FHOT.jpg
-imgRight: images/kelso.jpg
+imgLeft: images/kelso.jpg
+imgRight: images/FHOT.jpg
 
 weight: 4
 widget:
