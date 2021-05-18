@@ -1,0 +1,117 @@
+---
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: /Users/sambraza/Documents/R/file/content/Curriculum Vitae/svm-latex-cv.tex
+  html_document:
+    df_print: paged
+geometry: margin=1in
+    
+title: "CV"
+author: "Samuel Braza"
+    
+jobtitle: "Research technician, incoming medical student"
+address: 
+fontawesome: yes
+email: samueljbraza@gmail.com
+phone: (904) 718-1902
+updated: no
+keywords: R Markdown, academic CV, template
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+# Education
+
+*Santa Clara University*, B.S. Biochemistry, B.A. Philosophy. Santa Clara, CA. \hfill 2020
+
+# Research
+
+*Enveda Biosciences*,  Research Technician. \hfill 2021
+
+* Drug discovery work aimed at discovering and testing pharmaceutically active compounds in plants.
+* Helped develop and test proteomics and metabolomics protocols, using literature reviews to identify useful protocols that could be modified for current research needs.
+* Performed various experiments on various cells and plant extracts.
+
+*Santa Clara University, Abbyad Lab*. Research Assistant. \hfill 2017-2020
+
+* Research aimed at developing label-free sorting sorting systems, in order to quickly isolate metabolically-active cancer cells for genomic analysis, as well as sort enzymes based on activity.
+* Designed experiments and contributed to finding that with surfactant QX-100 present, droplet surface tension is inversely associated with pH. Performed control experiments to confirm findings.
+* Designed and tested many novel microfluidic chips to address sorting issues.
+* Led efforts to improve sorting system throughput, coordinating between lab members.
+* Wrote portions of two published manuscripts, contributed to grant writing, wrote Honors Thesis, and performed literature reviews to find citations and keep the group up to date on current research.
+
+*UCCS Department of Physics, Glushchenko Lab*. Research Assistant. \hfill 2016
+
+* Work aimed at improving zinc oxide microrod length through varying reagents.
+* Conducted experiments with different reagents and used scanning electron microscopy and optical microscopy to measure rods.
+* Performed analyses with a variety of spectroscopic techniques.
+* Reviewed literature and contributed to manuscript writing.
+
+
+# Publications and Presentations
+
+## *Publications*
+
+|        Horvath, D. G., **Braza, S.**, Moore, T., Pan, C. W., Zhu, L., Pak, O. S., & Abbyad, P. (2019). Sorting by interfacial tension. *Analytica chimica acta* 1089, 108-114.
+
+|        Pan, C. W., Horvath, D. G., **Braza, S.**, Moore, T., Lynch, A., Feit, C., & Abbyad, P. (2019). Sorting by interfacial tension (SIFT): label-free selection of live cells based on single-cell metabolism. *Lab on a Chip* 19(8), 1344-1351.
+
+|        Corral-Flores, V., **Braza, S.**, Christensen, T. M., & Glushchenko, A. (2018). Synthesis of zinc oxide microrod arrays and their performance as piezo-generators. *Analytica chimica acta* 33(9), 575-581.
+
+## *Presentations*
+
+|       **Braza, S.** (2019). *Label-free enzyme sorting using droplet microfluidics*, MSB 2019. Corvallis, OR.
+
+
+# Employment
+
+*Sand Creek High School*, Educational Paraprofessional. Colorado Springs, CO. \hfill 2020-2021
+
+* Tutored special education students in math and science.
+* Tracked student academic standing, contacting students and teachers as necessary.
+* Followed up with students when assignments are missing.
+
+*Self employed*, MCAT Tutor \hfill 2019-2020
+
+* Tutored many students for the Medical College Admission Test (MCAT).
+* Walked students through difficult scientific passages, ensuring that they could understand the content.
+* Developed learning strategies and mnemonics for students.
+
+
+# Volunteer Experience
+
+*Crisis Text Line (CTL)*, Crisis Counselor. \hfill 2019-2021
+
+* Helped hundreds of people who text into the crisis line. 
+* Provided a way for people to cope with stressful or crisis situations, connected them with useful resources specific to each situation.
+
+*Santa Clara University EMS*, Emergency Medical Technician. Santa Clara, CA. \hfill 2018-2020
+
+* Volunteered through my university’s EMS organization, responding to many calls in teams with other EMTs. 
+* Worked with many patients, on both trauma and medical calls.
+* Member of the organization's Judicial Board. Dealt with a number of ethically-tricky situations within the group, taking witness statements and deliberating on discipline decisions.
+
+*St. Francis Medical Center*, Hospital Volunteer. Colorado Springs, CO.\hfill 2013-2019
+
+* Volunteered four summers, most recently in 2019.
+* Transported patients between ED and Radiology.
+* Assisted doctors, nurses, and patients in ED.
+
+*ESL Conversation Club*, Volunteer. Santa Clara Public Library, Santa Clara, CA.\hfill 2018-2019.
+
+* Volunteered with recent immigrants to help them learn English.
+* Had conversations about all sorts of topics to include a broad range of vocabulary.
+
+
+# Personal Interests
+
+* *Violinist*: practiced and performed for 18 years, 3 year member of Santa Clara University Orchestra (concertmaster final year). Started string quartet final year.
+* *Hiking and mountaineering*: Climbed many 14,000+ foot mountains in Colorado over last 8 years.
+* *Philosophy*: Writing philosophy papers, reading philosophical texts and engaging others in discussion.
+
+# References
+
+Available upon request. Likely would include Dr. Paul Abbyad (Santa Clara University).
