@@ -1,7 +1,0 @@
-main:
-  - name: Posts
-    url: /Posts/
-    weight: 1
-  - name: Curriculum Vitae
-    url: https://sambraza.com/CV.pdf
-    weight: 2
