@@ -1,7 +1,7 @@
 ---
 title: Sam Braza
 draft: false
-avatar: images/pic2.png
+avatar: images/Sam Braza.png
 bio: (Incoming) medical student with philosophical aspirations.
 social:
 - icon: envelope
