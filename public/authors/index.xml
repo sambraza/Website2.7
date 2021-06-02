@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Sam Braza</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Sam Braza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021
+</copyright>
+    <lastBuildDate>Fri, 21 May 2021 22:52:56 +0800</lastBuildDate><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samuel Braza</title>
+      <link>/authors/samuel-braza/</link>
+      <pubDate>Fri, 21 May 2021 22:52:56 +0800</pubDate>
+      
+      <guid>/authors/samuel-braza/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

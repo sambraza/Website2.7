@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Files on Sam Braza</title>
+    <link>/files/</link>
+    <description>Recent content in Files on Sam Braza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021
+</copyright><atom:link href="/files/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>/files/samuel_braza_cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/files/samuel_braza_cv/</guid>
+      <description>Education Santa Clara University, B.S. Biochemistry, B.A. Philosophy. Santa Clara, CA.  Research Enveda Biosciences, Research Technician.  Drug discovery work aimed at discovering and testing pharmaceutically active compounds in plants. Helped develop and test proteomics and metabolomics protocols, using literature reviews to identify useful protocols that could be modified for current research needs. Performed various experiments on various cells and plant extracts.  Santa Clara University, Abbyad Lab. Research Assistant. -2020
+ Research aimed at developing label-free sorting sorting systems, in order to quickly isolate metabolically-active cancer cells for genomic analysis, as well as sort enzymes based on activity.</description>
+    </item>
+    
+  </channel>
+</rss>

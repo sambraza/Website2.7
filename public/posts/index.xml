@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sam Braza</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Sam Braza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021
+</copyright>
+    <lastBuildDate>Fri, 21 May 2021 22:52:56 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Towards a reductionist virtue ethic</title>
+      <link>/posts/virtue-ethics/</link>
+      <pubDate>Fri, 21 May 2021 22:52:56 +0800</pubDate>
+      
+      <guid>/posts/virtue-ethics/</guid>
+      <description>Over the last several decades, the field of virtue ethics has seen a resurgence in popularity. Alasdair Macintyre’s After Virtue drew significant attention for its critique of Enlightenment systems of morality (Macintyre, 75), but works by authors like Martha Nussbaum and Phillipa Foot have also brought significant focus upon theories of virtue. Philosophers differ, though, on how far they stray from Aristotle, the father of virtue ethics. Some take a more relativist approach to virtue theory, tying moral judgements and criteria to cultures and societies.</description>
+    </item>
+    
+    <item>
+      <title>A Perdurantist Model of Time Travel</title>
+      <link>/posts/time-travel-theory/</link>
+      <pubDate>Mon, 17 May 2021 22:52:56 +0800</pubDate>
+      
+      <guid>/posts/time-travel-theory/</guid>
+      <description>It seems that time travel may be metaphysically possible, since we can imagine it occurring. For example, envision the following: an intrepid scientist steps into a gleaming capsule in 2030, closes the door, and presses a button. In what seems to him to be a mere instant, his journey finishes and he arrives in the year 2031. Another scenario might involve a spacecraft that departs from Earth and travels close to the speed of light for what feels to its occupants like a mere 2 years.</description>
+    </item>
+    
+  </channel>
+</rss>
