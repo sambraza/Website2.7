@@ -1,8 +1,9 @@
 ---
-title: Sam Braza
+title: Samuel Braza
 draft: false
 avatar: images/Sam Braza.png
-bio: (Incoming) medical student with philosophical aspirations.
+
+bio: (Incoming) medical student with some philosophical thoughts.
 social:
 - icon: envelope
   iconPack: fas

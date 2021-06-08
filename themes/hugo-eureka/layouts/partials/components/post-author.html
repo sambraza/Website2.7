@@ -4,7 +4,7 @@
         <a href="{{ .Permalink }}" class="w-24 h-24 md:mr-4">
             {{ $img := partial "utils/get-image" (dict "context" . "url" .Params.avatar "keyword" "*avatar*")}}
             {{ with $img }}
-            <img src="{{ . }}" class="w-full bg-primary-bg rounded-full" alt="Avatar">
+            <img src="{{ . }}" class="w-full bg-primary-bg rounded-full" alt="Samuel Braza">
             {{ else }}
             <i class="fas fa-user-circle fa-6x"></i>
             {{ end }}
