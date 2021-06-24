@@ -9,7 +9,7 @@ featuredImage: null
 lastmod: "2021-06-23T22:52:56+08:00"
 series: null
 tags: null
-title: The Immorality of Promoting Alternate Ideas
+title: The Immorality of Promoting Unheld Ideas
 toc: true
 ---
 
