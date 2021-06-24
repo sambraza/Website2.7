@@ -9,7 +9,7 @@ featuredImage: null
 lastmod: "2021-05-21T22:52:56+08:00"
 series: null
 tags: null
-title: Towards a reductionist virtue ethic
+title: Towards a Reductionist Virtue Ethic
 toc: true
 ---
 
